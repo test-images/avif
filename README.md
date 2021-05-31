@@ -7,7 +7,11 @@ You can visit/star/clone all the test images [repos at GitHub](https://github.co
 
 ## History
 
-Latest files are in **[202105](./202105/202105.md)**.  Only 👉[squoosh\lossless7](202105\squoosh\losssless7) has content ATM.
+Latest files are in **[202105](./202105/202105.md)**.
+* squoosh\
+	* [lossless effort=7](202105\squoosh\losssless7)
+	* [lossy effort=7 chroma HALF (on)](202105\squoosh\lossy7chromahalf)
+	* [lossy effort=7 chroma OFF](202105\squoosh\lossy7chromaoff)
 
 ## License
 
